@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Roboto:wght@400;700&display=swap');
+
+header  nav{
+  display: flex;
+gap: 7.4rem;
+margin-top: 2rem;
+margin-left: 1rem;
+align-items: center;
+font-family: 'Roboto', sans-serif;
+position: absolute;
+
+}
+a{
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+input{
+  width: 12rem;
+  height: 3rem;
+  padding-LEFT: 3%;
+}
+span{
+  position: absolute;
+  left: 74%;
+  top: 1rem;
+}
+main{
+  display: flex;
+ font-family: 'Roboto', sans-serif;
+ 
+}
+#tenis{
+background-color: #E5E5E5;
+font-family: 'Roboto', sans-serif;
+width: 55%;
+height: 125vh;
+margin-top: 0;
+text-align: center;
+}
+p{
+  color: #9C9696;
+  text-align: left;
+  margin-left: 6rem;
+}
+h1{
+  margin-top: 8rem;
+  font-size: 2.5rem;
+  align-items: center;
+  margin-left: 6rem;
+  text-align: left;  
+}
+h4{
+  font-size: 1.8rem;
+ 
+
+}
+#comprar{
+  width: 12rem;
+  height: 4rem;
+  background-color: red;
+ border: none;
+  color: #E5E5E5;
+  border-radius: 5px;
+text-align: center;
+  font-size: 25px;
+  box-shadow: 5px 5px 5px black;
+}
+#img {
+  background-color: #b2b2b2;
+  width: 110%;
+  
+
+}
+#img img{
+margin-left: 25%;
+  width: 30vw;
+  margin-top: 10rem;
+  size: 10rem;
+ 
+  
+}
+#img .galery{
+  position: absolute;
+  top: 27rem;
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+
+  
+
+}
+#img .galery img{
+  width: 30%;
+  margin-left: 0%;
+  height: 30vh;
+ 
+  
+  
+
+ 
+}
+footer{
+  background-color: #E5E5E5;
+  
+}
+footer nav{
+  display: flex;
+ justify-content: space-between;
+ align-items: center;
+
+}
+nav button{
+  background-color: black;
+  color: #E5E5E5;
+  width: 20vw;
+  height: 25vh;
+
+}
+nav .icon{
+  position: absolute;
+  left: 94%;
+}
